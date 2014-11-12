@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:description}
+ *
+ * By: 大果 <liuxiong.lx@alibaba-inc.com>
+ */
+]]></content>
+    <tabTrigger>//file</tabTrigger>
+</snippet>

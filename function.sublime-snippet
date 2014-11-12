@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:description}
+ *
+ * @param ${2:param}
+ */
+]]></content>
+	<tabTrigger>//fun</tabTrigger>
+</snippet>

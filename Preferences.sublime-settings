@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"default_encoding": "utf-8",
+	"default_encoding_on_create": "utf-8",
+	"default_line_ending": "unix",
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Courier",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+		"CSScomb"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true
+}
